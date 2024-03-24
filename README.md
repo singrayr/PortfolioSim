@@ -4,9 +4,9 @@ PortfolioSim is a Python-based stock portfolio simulator project that allows use
 
 ## Features
 
-- **Portfolio Management**
-- **Simulated Trading**
-- **Technical Analysis**
+- **Portfolio Management** - Build and manage a hypothetical portfolio. View it's performance and analyze investment returns.
+- **Simulated Trading** - Simulate index rebalances and assess the impact this has on portfolio structure.
+- **Technical Analysis** - Provide tools for users to perform in-depth technical analysis on stocks and portfolio positions.
 
 ## Technical Stack
 
